@@ -1,6 +1,5 @@
-.conda/
-env/
-envs/
+
 .env/
+__pycache__/
 venv/
 .venv/
