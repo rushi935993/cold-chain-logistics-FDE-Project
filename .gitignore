@@ -1,0 +1,6 @@
+.conda/
+env/
+envs/
+.env/
+venv/
+.venv/
